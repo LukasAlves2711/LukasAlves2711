@@ -40,7 +40,7 @@
 <br/>
 <br/>
   
-## 📈 
+## contribution graph 📈 
   
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LukasAlves2711&theme=dracula)](https://github.com/LukasAlves2711/github-readme-activity-graph)
@@ -57,9 +57,15 @@
   
  ##
   
+  
 <p align="center">
      Replace the verb "try" with "train". That already solves half of the challenges.
 The idea of trying carries with it the seed of failure, and training the prospect of advancement, growth and fulfillment.
 </p>
-
   
+
+                                                                                                                  
+<h1 align="center">
+   <img src="https://user-images.githubusercontent.com/79018137/150166341-aaee1ebe-eb49-46d8-8ebd-df12871f240d.gif"/>
+</h1>                                                                                                                  
+                                                                                                                  
