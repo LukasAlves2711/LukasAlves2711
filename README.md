@@ -7,11 +7,10 @@
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Lukas_alves#2567)
 
 
-
-  ![LukasAlves2711 GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasAlves2711&show_icons=true&theme=dracula)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAlves2711&layout=compact)](https://github.com/LukasAlves2711/github-readme-stats)
-  
+<div>
+<!--   <img height="180em"  alt="tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAlves2711&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="180em" alt="tech" src="https://github-readme-stats.vercel.app/api?username=LukasAlves2711&show_icons=true&theme=dracula" /> -->
+ </div>
 
 
 ## Construction Skills 🚀 🚧
