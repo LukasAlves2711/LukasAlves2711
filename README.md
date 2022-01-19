@@ -40,7 +40,7 @@
 <br/>
 <br/>
   
-## contribution graph 📈 
+## Contribution Graph 📈 
   
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LukasAlves2711&theme=dracula)](https://github.com/LukasAlves2711/github-readme-activity-graph)
@@ -49,7 +49,7 @@
 <br/>
   
   
-  ## Snake graph 🐍
+  ## Snake Graph 🐍
   
   
   ![snake gif](https://github.com/LukasAlves2711/LukasAlves2711/blob/output/github-contribution-grid-snake.gif)
