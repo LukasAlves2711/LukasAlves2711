@@ -5,12 +5,14 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasfasilva27@gmail.com)
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](14999045481)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Lukas_alves#2567)
+[![Blog](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-107ab120a)
 
 
 <div>
-<!--   <img height="180em"  alt="tech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAlves2711&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-  <img height="180em" alt="tech" src="https://github-readme-stats.vercel.app/api?username=LukasAlves2711&show_icons=true&theme=dracula" /> -->
- </div>
+  <a href="https://www.linkedin.com/in/lucas-alves-107ab120a">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasAlves2711&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasAlves2711&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 ## Construction Skills 🚀 🚧
@@ -28,10 +30,14 @@
      <img align="center"  alt="tech" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />  
 </div> <br/>
 
----
+##
 
 <p style="text-align: center"> 
   Replace the verb "try" with "train". That already solves half of the challenges.
 The idea of trying carries with it the seed of failure, and training the prospect of advancement, growth and fulfillment.
   
  </p>
+  
+  
+  ![Snake animation](https://github.com/LukasAlves2711/LukasAlves2711/blob/output/github-contribution-grid-snake.svg)
+  
